@@ -1,4 +1,3 @@
-// app/page.tsx
 "use client";
 
 import { useEffect } from "react";
@@ -125,7 +124,7 @@ function MainContent() {
                 className="w-3 h-3 bg-emerald-400 rounded-full shadow-lg shadow-emerald-400/50"
               /> */}
               <span className="text-gray-400 text-lg font-medium tracking-wide">
-                AI-Powered Music Creation
+                Wubble QuickTune Mini AI Music Preview Generator
               </span>
             </motion.div>
           </motion.div>
