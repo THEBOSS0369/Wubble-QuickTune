@@ -10,8 +10,6 @@ A beautiful, dark themed single page web application that previews music generat
 - **Track Preview**: Complete audio player with play/pause, progress bar, and track info
 - **Download Functionality**: Download generated tracks
 - **Like/Favorite System**: Heart button to favorite tracks (stored in memory)
-
-### Bonus Features
 - **Dark Theme**: Sleek, modern dark UI with cool animations
 - **Framer Motion Animations**: Smooth transitions and loading effects
 - **Recent Tracks**: View and replay recently generated tracks
