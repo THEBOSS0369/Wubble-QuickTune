@@ -1,6 +1,6 @@
 # 🎧 Wubble QuickTune Mini - AI Music Preview Generator
 
-A beautiful, dark-themed single-page web application that simulates AI-powered music generation based on mood and genre selection.
+A beautiful, dark themed single page web application that previews music generation based on mood and genre selection.
 
 ## ✨ Features
 
