@@ -2,6 +2,10 @@
 
 A beautiful, dark themed single page web application that previews music generation based on mood and genre selection.
 
+## Deployment
+
+Checkout the live Demo Here: https://wubble-quick-tune-l715.vercel.app/
+
 ## ✨ Features
 
 ### Core Features
