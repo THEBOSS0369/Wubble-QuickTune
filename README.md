@@ -19,7 +19,7 @@ A beautiful, dark themed single page web application that previews music generat
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js 14 + TypeScript + Tailwind CSS
+- **Frontend**: Next.js + TypeScript + Tailwind CSS
 - **State Management**: Redux Toolkit
 - **Animations**: Framer Motion
 - **Backend**: Next.js API Routes
@@ -51,4 +51,13 @@ src/
 │   └── index.ts
 └── utils/
     ├── api.ts
-    └── localStorage.
+    └── localStorage.ts
+```
+
+## Images
+![Music](https://github.com/user-attachments/assets/000aa0bf-cb15-4d4e-953d-ef79756a975b)
+![Home_1](https://github.com/user-attachments/assets/6548cf1b-464b-473a-bc43-9707554d1747)
+![Home_2](https://github.com/user-attachments/assets/243d3934-f0f1-4548-95fd-b130db5db77d)
+
+
+### Thanks for reading till Now! See you in Next one!!! ;)
